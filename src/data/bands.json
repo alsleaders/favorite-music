@@ -1,0 +1,30 @@
+{
+  "bandInfo": [
+    {
+      "name": "DoubleClicks",
+      "image": "../images/Doubleclicks.jpg",
+      "album": "The Book was Better",
+      "about": "The Doubleclicks are a nerd-folk duo from Portland, Oregon who write
+      songs that are all at once snarky, geeky, and sweet.  Do you want a band that has a song about shark-eating prehistoric badasses?  Here you go!  The once released an entire album of meows.  They are not sorry."
+    },
+    {
+      "name": "Hank Green",
+      "image": "../images/Hank.jpg",
+      "album": "Incongruent",
+      "about": "Hank Green does many things. Just lots. You'd be shocked by the
+      number of things he seems to get into. He is supposed to be writing
+      a book, so he puts out fewer songs now. He wrote a song about
+      quarks."
+    },
+    {
+      "name": "Frank Turner",
+      "image": "../images/Frank.jpg",
+      "album": "Be More Kind",
+      "about": "You know how you let Youtube autoplay and sometimes you get a bunch
+      of stuff from the same artist and then you happen upon your new
+      favorite song? That's how I found out Frank Turner was truly
+      awesome. He is an English punk and folk singer-songwriter and I
+      really should find a good end to this sentence."
+    }
+  ]
+}

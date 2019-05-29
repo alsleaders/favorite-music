@@ -6,10 +6,7 @@ class DoubleClicks extends Component {
       <div>
         <li>
           <h3>The Doubleclicks</h3>
-          <p>
-            The Doubleclicks are a nerd-folk duo from Portland, Oregon who write
-            songs that are all at once snarky, geeky and sweet.
-          </p>
+          <p />
         </li>
       </div>
     )
