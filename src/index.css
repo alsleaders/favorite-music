@@ -13,6 +13,33 @@ body {
   text-align: center;
 }
 
+h1 {
+  font-size: 200%;
+  height: 3rem;
+}
+
 li {
   list-style: none;
+}
+
+#space-around {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-content: space-around;
+  height: 3rem;
+}
+
+img {
+  max-width: 330px;
+}
+
+#splash {
+  font-size: 110%;
+  border-radius: 3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+  min-height: 300px;
 }

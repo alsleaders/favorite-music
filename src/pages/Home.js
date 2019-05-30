@@ -1,23 +1,23 @@
 import React, { Component } from 'react'
-// import DoubleClicks from './Doubleclicks'
-// import HankGreen from './HankGreen'
-// import FrankTurner from './FrankTurner'
+import DoubleClicks from './Doubleclicks'
+import HankGreen from './HankGreen'
+import FrankTurner from './FrankTurner'
 import { Link } from 'react-router-dom'
 import data from '../data/bands.json'
 
 class Home extends Component {
   render() {
     return (
-      <div>
-        Here is a list of bands I like
+      <div id="splash">
+        {/* Here is a list of bands I like
         {Object.values(data.bands).map(band => {
           return (
             <li key={band.name}>
               <Link to="/{band.name}">{band.name}</Link>
             </li>
           )
-        })}
-        {/* <p>
+        })} */}
+        <p>
           <Link to="/DoubleClicks">The DoubleClicks</Link>
         </p>
         <p>
@@ -25,7 +25,7 @@ class Home extends Component {
         </p>
         <p>
           <Link to="/FrankTurner">Frank Turner</Link>
-        </p> */}
+        </p>
       </div>
     )
   }
