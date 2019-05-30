@@ -6,8 +6,6 @@ class FrankTurner extends Component {
       <div>
         <li>
           <h3>Frank Turner</h3>
-          <p />
-          {/* <img src="Frank" /> */}
         </li>
       </div>
     )
